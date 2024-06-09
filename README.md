@@ -2,7 +2,7 @@ Entrega 1: Descripción y Formulación del Objetivo
 
 Alumno: Dario Emmanuel  Verdun  
 
-ítulo del Proyecto: Detección de Fallas por Desbalance en Motores Eléctricos.
+Título del Proyecto: Detección de Fallas por Desbalance en Motores Eléctricos.
 
 Descripción del Proyecto:  
 En este proyecto alineado con mis intereses y mi experiencia laboral actual. Dado mi trabajo en el campo del análisis predictivo de vibraciones, he decidido abordar un problema que considero relevante y que tiene el potencial de tener un impacto significativo en 
