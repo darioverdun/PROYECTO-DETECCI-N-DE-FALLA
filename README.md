@@ -1,4 +1,38 @@
-![analisis-vibraciones-corfopym-1080x720-webp](https://github.com/darioverdun/PROYECTO-DETECCION-DE-FALLA/assets/143291888/708e620e-3a13-4a13-a5f8-d21e4c1af75a)
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-image: url('https://github.com/darioverdun/PROYECTO-DETECCION-DE-FALLA/raw/main/assets/143291888/708e620e-3a13-4a13-a5f8-d21e4c1af75a.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      padding: 50px;
+      opacity: 0.9; /* Ajusta la opacidad según sea necesario */
+    }
+    .content {
+      background-color: rgba(255, 255, 255, 0.7); /* Fondo del contenido con opacidad */
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="content">
+
+# Título de tu Proyecto
+
+Descripción de tu proyecto aquí. Puedes escribir en Markdown como de costumbre.
+
+- Lista de características
+- Detalles del proyecto
+- Instrucciones de instalación, etc.
+
+</div>
+
+</body>
+</html>
+
 
 
 
