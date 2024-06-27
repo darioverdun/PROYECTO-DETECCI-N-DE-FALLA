@@ -1,3 +1,7 @@
+![analisis-vibraciones-corfopym-1080x720-webp](https://github.com/darioverdun/PROYECTO-DETECCION-DE-FALLA/assets/143291888/708e620e-3a13-4a13-a5f8-d21e4c1af75a)
+
+
+
 Entrega 1: Descripción y Formulación del Objetivo
 
 Alumno: Dario Emmanuel  Verdun  
