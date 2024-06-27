@@ -1,23 +1,24 @@
-## Entrenamiento del Modelo: Máquinas de Vectores de Soporte (SVM)
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-image: url('https://github.com/darioverdun/PROYECTO-DETECCION-DE-FALLA/raw/main/assets/143291888/708e620e-3a13-4a13-a5f8-d21e4c1af75a.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      padding: 50px;
+      opacity: 0.9; /* Ajusta la opacidad según sea necesario */
+    }
+    .content {
+      background-color: rgba(255, 255, 255, 0.7); /* Fondo del contenido con opacidad */
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
 
-Vamos a utilizar el algoritmo de Máquinas de Vectores de Soporte (SVM) para entrenar nuestro modelo. Utilizaremos los datos de entrenamiento y evaluaremos su rendimiento utilizando los datos de prueba.
-
-```python
-# Inicializar el clasificador de SVM
-svm_classifier = SVC(random_state=42)
-
-# Entrenamiento del modelo con datos normales
-svm_classifier.fit(X_train_norm, y_train_norm)
-
-# Predicción en el conjunto de prueba (datos normales)
-y_pred_svm_norm = svm_classifier.predict(X_test_norm)
-
-# Entrenamiento del modelo con datos de desbalance
-svm_classifier.fit(X_train_desbalance, y_train_desbalance)
-
-# Predicción en el conjunto de prueba (datos de desbalance)
-y_pred_svm_desbalance = svm_classifier.predict(X_test_desbalance)
-
+<div class="content">
 
 # Título de tu Proyecto
 
