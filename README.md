@@ -30,3 +30,46 @@ Los motores eléctricos son componentes críticos en una amplia gama de aplicaci
 
 Conclusión:
 Este proyecto representa una oportunidad emocionante para aplicar técnicas avanzadas de aprendizaje automático en un área de gran importancia en la industria. La detección eficaz de fallas por desbalance en motores eléctricos puede tener un impacto significativo en la productividad y la rentabilidad de las empresas. Además, mi mayor motivación radica en el potencial de continuar con el desarrollo de este proyecto, abarcando otros tipos de fallas como desalineación, fallas de rodamientos, entre otras. Esto permitiría ampliar el alcance del modelo y brindar soluciones integrales para la detección y prevención de problemas en maquinaria industrial, contribuyendo así a la mejora continua de la eficiencia operativa y la reducción de costos en diversos sectores industriales.
+
+
+FINALIZACIÓN DEL PROYECTO
+
+Evaluación de Modelos de Aprendizaje Automático para la Detección de Fallas por Desbalance en Motores Eléctricos
+
+Objetivos del Proyecto
+Implementación de Modelos: El objetivo principal de este proyecto fue desarrollar modelos de aprendizaje automático capaces de detectar eficientemente problemas de desbalance en motores eléctricos mediante el análisis de datos de vibraciones.
+
+Comparación de Rendimiento: Se compararon varios modelos de aprendizaje automático, incluyendo Random Forest, Regresión Logística y SVM, para evaluar su rendimiento en términos de precisión, recall, F1-score y exactitud.
+
+Impacto Potencial: Se buscó determinar el impacto potencial de implementar estos modelos en términos de reducción de costos y optimización de la eficiencia operativa en industrias que dependen de motores eléctricos.
+
+Preguntas Iniciales y Respuestas
+¿Cuál modelo ofrece el mejor rendimiento para la detección de desbalance en motores eléctricos?
+
+Respuesta: Basado en los resultados obtenidos, el modelo Random Forest demostró el mejor rendimiento general con una precisión del 96%, recall del 97%, F1-score del 96%, y una exactitud del 96% en la clasificación de los datos de prueba.
+¿Qué características o patrones en las señales de vibración son más indicativos de desbalance en un motor eléctrico?
+
+Respuesta: A través del análisis y la ingeniería de características, se identificaron patrones específicos en las señales de vibración que señalan la presencia de desbalance, como variaciones en la amplitud y frecuencia de las vibraciones. Las columnas destacadas por su capacidad para discernir entre condiciones normales y desbalanceadas incluyen Acel. Sop. Tang. y Acel. Rod. Sal. Tang.
+¿Cómo se comparan los modelos en términos de precisión, recall y F1-score?
+
+Respuesta:
+Random Forest: Precisión 96%, recall 97%, F1-score 96%.
+Regresión Logística: Precisión 50%, recall 64% para clase 0 y 36% para clase 1, F1-score 56% para clase 0 y 42% para clase 1.
+SVM: Precisión 57% para clase 0 y 100% para clase 1, recall 100% para clase 0 y 23% para clase 1, F1-score 72% para clase 0 y 38% para clase 1.
+¿Cuál es el impacto potencial de implementar este modelo en términos de reducción de costos y optimización de la eficiencia operativa?
+
+Respuesta: La implementación exitosa de un modelo de detección temprana de desbalance en motores eléctricos podría significar una reducción significativa en costos debido a la prevención de fallas catastróficas, optimización del mantenimiento preventivo y mejora en la eficiencia operativa al evitar tiempos de inactividad no planificados.
+Evaluación de Objetivos y Conclusiones
+Respuesta a las Preguntas:
+
+El modelo Random Forest fue identificado como el más adecuado para la detección de desbalance en motores eléctricos, superando significativamente a otros modelos evaluados.
+Se identificaron patrones distintivos en las señales de vibración que indican desbalance, permitiendo una detección efectiva y temprana de fallas.
+Alcance de Objetivos:
+
+El proyecto logró cumplir con éxito los objetivos establecidos al desarrollar y evaluar modelos de aprendizaje automático para la detección de desbalance en motores eléctricos, proporcionando insights valiosos para la implementación práctica en la industria.
+Recomendaciones y Mejoras Futuras
+Optimización Avanzada de Hiperparámetros: Se recomienda realizar una optimización más profunda de hiperparámetros para mejorar aún más el rendimiento de los modelos, especialmente de Regresión Logística y SVM.
+Exploración de Modelos Avanzados: Considerar la exploración de modelos más avanzados como redes neuronales convolucionales para capturar de manera más efectiva las características complejas de las señales de vibración.
+Ampliación para Detectar Otros Modos de Fallas: Extender el modelo para detectar otros modos de fallas comunes en motores eléctricos, como desalineación, problemas de rodamientos y solturas mecánicas, ampliando así su aplicación y utilidad en diferentes escenarios industriales.
+Integración de Datos de Vibración y Espectros de Frecuencia: En una fase avanzada, integrar datos de vibración con imágenes de espectros de frecuencia para combinar información numérica y visual, mejorando la capacidad predictiva del modelo y facilitando un diagnóstico más preciso y rápido de las fallas.
+Este proyecto ha demostrado ser una aplicación práctica y significativa de técnicas avanzadas de aprendizaje automático en la industria, abordando un problema crítico que puede mejorar la eficiencia operativa y reducir costos en diversas aplicaciones industriales. La continuación del desarrollo y la expansión del modelo promete seguir contribuyendo al avance y la innovación en el mantenimiento predictivo y la gestión de activos industriales.
