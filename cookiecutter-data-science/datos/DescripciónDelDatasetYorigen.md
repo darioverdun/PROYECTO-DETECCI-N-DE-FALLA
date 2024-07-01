@@ -1,6 +1,6 @@
-![Uploading image.png…]()
 
 
+![proyecto aprendizaje automatico](https://github.com/darioverdun/PROYECTO-DETECCION-DE-FALLA/assets/143291888/c83333df-6054-4f25-8a1e-ec91b6a3a1f2)
 
 
 
