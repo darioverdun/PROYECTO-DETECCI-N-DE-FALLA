@@ -76,5 +76,5 @@ Este proyecto ha demostrado ser una aplicación práctica y significativa de té
 
 
 
-![Captura de pantalla_30-6-2024_215349_chatgpt com](https://github.com/darioverdun/PROYECTO-DETECCION-DE-FALLA/assets/143291888/c076786d-89f9-4365-88d1-2e9a07b1600f)
+![Captura de pantalla_1-7-2024_1852_chatgpt com](https://github.com/darioverdun/PROYECTO-DETECCION-DE-FALLA/assets/143291888/7bbf8c02-650f-4699-80ab-2e1bad44943c)
 
