@@ -1,3 +1,10 @@
+![Uploading image.png…]()
+
+
+
+
+
+
 Descripción del Dataset y Origen 
 
 Nombre del Dataset: Base de datos de fallas de maquinaria. 
