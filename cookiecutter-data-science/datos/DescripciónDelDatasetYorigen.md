@@ -10,9 +10,13 @@ Descripción del Dataset y Origen
 Nombre del Dataset: Base de datos de fallas de maquinaria. 
 
 Cantidad de Instancias y Características: Cada archivo CSV contiene alrededor de 250,000 filas y 8 columnas. Las características incluyen:
+
 1.	Señal del tacómetro de la columna 1, que permite estimar la frecuencia de rotación. (Tipo de datos: Numérico)
+
 2.	Acelerómetro de soporte colgante de las columnas 2 a 4 (dirección axial, radial tangencial). (Tipo de datos: Numérico)
+
 3.	Acelerómetro de rodamiento saliente de las columnas 5 a 7 (dirección axial, radial tangencial). (Tipo de datos: Numérico)
+
 4.	Micrófono de columna 8. (Tipo de datos: Numérico) 
 
 Origen del Dataset: https://www02.smt.ufrj.br/~offshore/mfs/page_01.html 
