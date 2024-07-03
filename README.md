@@ -76,34 +76,5 @@ Este proyecto ha demostrado ser una aplicación práctica y significativa de té
 
 
 
+![Captura de pantalla_1-7-2024_1852_chatgpt com](https://github.com/darioverdun/PROYECTO-DETECCION-DE-FALLA/assets/143291888/7bbf8c02-650f-4699-80ab-2e1bad44943c)
 
-├── LICENCIA         <- Licencia de código abierto MIT
-├── README.md        <- DESCRIPCIÓN DEL PROYECTO.
-├── data             <- DATOS UTILIZADO EN EL PROYECTO.
-│   ├── external     <- Datos de fuentes de terceros.
-│   ├── interim      <- Datos intermedios que se han transformado.
-│   ├── processing   <- Los conjuntos de datos canónicos finales para modelado.
-│   └── raw          <- El volcado de datos original e inmutable.│
-│
-├── docs             <- NOMBRE DE ALUMNO EN FORMATO PDF
-├── modelos          <- Modelos entrenados y serializados, predicciones de modelos o resúmenes de modelos.
-│
-├── cuadernos        <- Cuadernos Jupyter. 
-│
-├── referencias       <- Diccionarios de datos, manuales y todos los demás materiales explicativos.
-│
-├── informes          <- Análisis generados en formato HTML, PDF, LaTeX, etc.
-│   └── figuras       <- Gráficos y figuras generados para su uso en informes.
-│
-├── requirements.txt  <- El archivo de requisitos para reproducir el entorno de análisis, generado con `pip freeze > requirements.txt`.
-│
-└── {{ cookiecutter.module_name }}
-    ├── __init__.py         <- Convierte {{ cookiecutter.module_name }} en un módulo de Python.
-    ├── config.py           <- Almacena variables útiles y configuración.
-    ├── dataset.py          <- Scripts para descargar o generar datos.
-    ├── features.py         <- Código para crear características para modelado.
-    ├── modelado
-    │   ├── __init__.py
-    │   ├── predict.py      <- Código para ejecutar la inferencia de modelos con modelos entrenados.
-    │   └── train.py        <- Código para entrenar modelos.
-    └── plots.py            <- Código para crear visualizaciones.
