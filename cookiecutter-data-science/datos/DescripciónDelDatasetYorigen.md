@@ -9,17 +9,19 @@ Descripción del Dataset y Origen
 
 Nombre del Dataset: Base de datos de fallas de maquinaria. 
 
-Cantidad de Instancias y Características: Cada archivo CSV contiene alrededor de 250,000 filas y 8 columnas. Las características incluyen:
+Cantidad de Instancias y Características: Esta compuesto por 56 archivos, Cada archivo CSV contiene alrededor de 250,000 instancias y 8 atributos o caracteristicas. Estas  incluyen:
 
-1.	Señal del tacómetro de la columna 1, que permite estimar la frecuencia de rotación. (Tipo de datos: Numérico)
+1.	Señal del tacómetro en la columna 1, que permite estimar la frecuencia de rotación. (Tipo de datos: Numérico)
 
-2.	Acelerómetro de soporte colgante de las columnas 2 a 4 (dirección axial, radial tangencial). (Tipo de datos: Numérico)
+2.	Acelerómetro de soporte colgante de los atributos 2 a 4 (dirección axial, radial tangencial). (Tipo de datos: Numérico)
 
-3.	Acelerómetro de rodamiento saliente de las columnas 5 a 7 (dirección axial, radial tangencial). (Tipo de datos: Numérico)
+3.	Acelerómetro de rodamiento saliente de los atributos 5 a 7 (dirección axial, radial tangencial). (Tipo de datos: Numérico)
 
-4.	Micrófono de columna 8. (Tipo de datos: Numérico) 
+4.	Micrófono en  el Octavo atributo. (Tipo de datos: Numérico) 
 
 Origen del Dataset: https://www02.smt.ufrj.br/~offshore/mfs/page_01.html 
+
+UNIVERSIDAD FEDERAL DE RIO DE JANEIRO
 
 Los datos provienen del Simulador de fallas de maquinaria (MFS) de SpectraQuest, Alineación-Equilibrio-Vibración (ABVT). Este simulador se utiliza para simular diferentes estados de fallas en maquinaria. El dataset comprende archivos CSV que representan series de tiempo multivariadas adquiridas por sensores en el MFS. Especificaciones del Banco Experimental:
  
@@ -55,9 +57,9 @@ o	Cantidad de archivos: 28
 
 o	Cada archivo representa una medición del motor en funcionamiento normal.
 
-o	Cada medición contiene 8 columnas como se describe en la descripción del dataset.
+o	Cada medición contiene 8 aatributos como se describe en la descripción del dataset.
 
-o	Cada archivo contiene alrededor de 250,000 filas de datos.
+o	Cada archivo contiene alrededor de 250,000 instancias de datos.
 
 •	Bases de datos de desbalance:
 
@@ -67,6 +69,6 @@ o	Niveles de desbalance: 6g, 10g, 15g, 20g, 25g, 30g, 35g
 
 o	Cada base de datos contiene 4 archivos, uno por cada nivel de desbalance.
 
-o	Cada archivo tiene las mismas 8 columnas que las mediciones de funcionamiento normal.
+o	Cada archivo tiene los mismas 8 atributos que las mediciones de funcionamiento normal.
 
-o	Cada archivo contiene alrededor de 250,000 filas de datos.
+o	Cada archivo contiene alrededor de 250,000 instancais de datos.
