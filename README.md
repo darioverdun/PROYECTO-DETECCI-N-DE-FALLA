@@ -10,16 +10,20 @@ Alumno: Dario Emmanuel  Verdun
 Título del Proyecto: Detección de Fallas por Desbalance en Motores Eléctricos.
 
 Descripción del Proyecto:  
+
 En este proyecto alineado con mis intereses y mi experiencia laboral actual. Dado mi trabajo en el campo del análisis predictivo de vibraciones, he decidido abordar un problema que considero relevante y que tiene el potencial de tener un impacto significativo en 
 la industria: la detección de fallas por desbalance en motores eléctricos mediante el análisis de vibraciones.
 
 Motivación:  
+
 Mi interés en este proyecto surge de la necesidad de mejorar los métodos de detección de fallas en maquinaria, particularmente en motores eléctricos, que son componentes críticos en una amplia gama de industrias. La capacidad de predecir y detectar problemas de desbalance en estos motores de manera temprana puede ayudar a evitar costosas interrupciones no planificadas y optimizar el mantenimiento preventivo, lo que puede resultar en ahorros significativos de tiempo y recursos para las empresas.
 
 Objetivo del Proyecto:  
+
 El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático que pueda predecir eficientemente problemas de desbalance en motores eléctricos a partir del análisis de datos de vibraciones. Este modelo deberá ser capaz de identificar patrones característicos en las señales de vibración que indiquen la presencia de desbalance en el motor, permitiendo así una detección temprana y precisa de posibles fallas.
 
 Preguntas de Investigación:
+
 ¿Es posible desarrollar un modelo de aprendizaje automático que pueda detectar eficazmente problemas de desbalance en motores eléctricos a partir de datos de vibraciones?
 
 ¿Qué características o patrones en las señales de vibración son más indicativos de la presencia de desbalance en un motor?
@@ -29,9 +33,11 @@ Preguntas de Investigación:
 ¿Cuál es el impacto potencial de implementar este modelo en términos de reducción de costos y optimización de la eficiencia operativa?
 
 Contexto del Problema: 
+
 Los motores eléctricos son componentes críticos en una amplia gama de aplicaciones industriales, desde la fabricación hasta la generación de energía. El desbalance en estos motores puede causar vibraciones excesivas, lo que puede provocar daños en los rodamientos, acortar la vida útil del motor y aumentar el riesgo de fallas catastróficas. Por lo tanto, la detección temprana de problemas de desbalance es fundamental para garantizar la fiabilidad y la eficiencia de los equipos industriales.
 
 Conclusión:
+
 Este proyecto representa una oportunidad emocionante para aplicar técnicas avanzadas de aprendizaje automático en un área de gran importancia en la industria. La detección eficaz de fallas por desbalance en motores eléctricos puede tener un impacto significativo en la productividad y la rentabilidad de las empresas. Además, mi mayor motivación radica en el potencial de continuar con el desarrollo de este proyecto, abarcando otros tipos de fallas como desalineación, fallas de rodamientos, entre otras. Esto permitiría ampliar el alcance del modelo y brindar soluciones integrales para la detección y prevención de problemas en maquinaria industrial, contribuyendo así a la mejora continua de la eficiencia operativa y la reducción de costos en diversos sectores industriales.
 
 
@@ -40,6 +46,7 @@ FINALIZACIÓN DEL PROYECTO
 Evaluación de Modelos de Aprendizaje Automático para la Detección de Fallas por Desbalance en Motores Eléctricos
 
 Objetivos del Proyecto
+
 Implementación de Modelos: El objetivo principal de este proyecto fue desarrollar modelos de aprendizaje automático capaces de detectar eficientemente problemas de desbalance en motores eléctricos mediante el análisis de datos de vibraciones.
 
 Comparación de Rendimiento: Se compararon varios modelos de aprendizaje automático, incluyendo Random Forest, Regresión Logística y SVM, para evaluar su rendimiento en términos de precisión, recall, F1-score y exactitud.
@@ -47,21 +54,29 @@ Comparación de Rendimiento: Se compararon varios modelos de aprendizaje automá
 Impacto Potencial: Se buscó determinar el impacto potencial de implementar estos modelos en términos de reducción de costos y optimización de la eficiencia operativa en industrias que dependen de motores eléctricos.
 
 Preguntas Iniciales y Respuestas
+
 ¿Cuál modelo ofrece el mejor rendimiento para la detección de desbalance en motores eléctricos?
 
-Respuesta: Basado en los resultados obtenidos, el modelo Random Forest demostró el mejor rendimiento general con una precisión del 96%, recall del 97%, F1-score del 96%, y una exactitud del 96% en la clasificación de los datos de prueba.
+Respuesta:
+
+Basado en los resultados obtenidos, el modelo Random Forest demostró el mejor rendimiento general con una precisión del 96%, recall del 97%, F1-score del 96%, y una exactitud del 96% en la clasificación de los datos de prueba.
 ¿Qué características o patrones en las señales de vibración son más indicativos de desbalance en un motor eléctrico?
 
-Respuesta: A través del análisis y la ingeniería de características, se identificaron patrones específicos en las señales de vibración que señalan la presencia de desbalance, como variaciones en la amplitud y frecuencia de las vibraciones. Las columnas destacadas por su capacidad para discernir entre condiciones normales y desbalanceadas incluyen Acel. Sop. Tang. y Acel. Rod. Sal. Tang.
+Respuesta: 
+
+A través del análisis y la ingeniería de características, se identificaron patrones específicos en las señales de vibración que señalan la presencia de desbalance, como variaciones en la amplitud y frecuencia de las vibraciones. Las columnas destacadas por su capacidad para discernir entre condiciones normales y desbalanceadas incluyen Acel. Sop. Tang. y Acel. Rod. Sal. Tang.
 ¿Cómo se comparan los modelos en términos de precisión, recall y F1-score?
 
 Respuesta:
+
 Random Forest: Precisión 96%, recall 97%, F1-score 96%.
 Regresión Logística: Precisión 50%, recall 64% para clase 0 y 36% para clase 1, F1-score 56% para clase 0 y 42% para clase 1.
 SVM: Precisión 57% para clase 0 y 100% para clase 1, recall 100% para clase 0 y 23% para clase 1, F1-score 72% para clase 0 y 38% para clase 1.
 ¿Cuál es el impacto potencial de implementar este modelo en términos de reducción de costos y optimización de la eficiencia operativa?
 
-Respuesta: La implementación exitosa de un modelo de detección temprana de desbalance en motores eléctricos podría significar una reducción significativa en costos debido a la prevención de fallas catastróficas, optimización del mantenimiento preventivo y mejora en la eficiencia operativa al evitar tiempos de inactividad no planificados.
+Respuesta:
+
+La implementación exitosa de un modelo de detección temprana de desbalance en motores eléctricos podría significar una reducción significativa en costos debido a la prevención de fallas catastróficas, optimización del mantenimiento preventivo y mejora en la eficiencia operativa al evitar tiempos de inactividad no planificados.
 Evaluación de Objetivos y Conclusiones
 Respuesta a las Preguntas:
 
