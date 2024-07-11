@@ -21,8 +21,11 @@ El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje a
 
 Preguntas de Investigación:
 ¿Es posible desarrollar un modelo de aprendizaje automático que pueda detectar eficazmente problemas de desbalance en motores eléctricos a partir de datos de vibraciones?
+
 ¿Qué características o patrones en las señales de vibración son más indicativos de la presencia de desbalance en un motor?
+
 ¿Cuál es el rendimiento del modelo en términos de precisión, recall y F1-score?
+
 ¿Cuál es el impacto potencial de implementar este modelo en términos de reducción de costos y optimización de la eficiencia operativa?
 
 Contexto del Problema: 
